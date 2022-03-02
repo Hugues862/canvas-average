@@ -6,4 +6,4 @@ Be sure to have installed python3, with the packages requests and bs4.
 
 Here is an example image:
 
-!(https://github.com/Hugues862/canvas-average/blob/main/example.png)
+![](https://github.com/Hugues862/canvas-average/blob/main/example.png)
